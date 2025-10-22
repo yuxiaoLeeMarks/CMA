@@ -6,7 +6,7 @@ Yuxiao Lee, Xiaofeng Cao, Jingcai Guo, Wei Ye, Qing Guo, Yi Chang
 
 Concept Matching with Agents (CMA) introduces neutral textual “agents” into the zero-shot OOD detection pipeline to reshape the CLIP softmax distribution. Instead of relying solely on the maximum similarity between an image and in-distribution (ID) labels, CMA jointly normalises over ID labels and agent prompts, allowing out-of-distribution (OOD) images to be “claimed” by neutral concepts and therefore separated from ID data without supervision. 
 
-## [Project Page](https://github.com/yuxiaoLeeMarks/CMA) | [Paper (https://ojs.aaai.org/index.php/AAAI/article/view/32481/34636)]()
+## [Project Page](https://github.com/yuxiaoLeeMarks/CMA) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32481/34636)
 
 ![overview](images/CMA_overview.png)
 
