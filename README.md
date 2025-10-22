@@ -15,7 +15,6 @@ Concept Matching with Agents (CMA) introduces neutral textual “agents” into 
 - **Agent-augmented scoring**: CMA computes the posterior of the most compatible ID label while neutral agent prompts expand the softmax denominator, suppressing OOD confidence.
 - **Zero-shot and training-free**: builds entirely on pre-trained CLIP encoders; no gradients or fine-tuning required.
 - **Flexible prompt design**: customise the number and wording of agent prompts through CLI flags or text files.
-- **Full benchmarking suite**: retain support for the large-scale ImageNet benchmarks and classical baselines shipped with the original project.
 
 ## Repository Map
 
